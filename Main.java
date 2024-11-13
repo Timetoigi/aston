@@ -1,5 +1,4 @@
-/**
- * Задание 1
+//Задание 1
 class Animal {
     protected static int count = 0;
     protected String name;
@@ -155,12 +154,9 @@ public class Main {
         System.out.println("Всего котов: " + Cat.getCatCount());
     }
 }
- */
 
 
-/**
- * Задание 2
-
+//Задание 2
 interface Shape {
     double calculateArea();
     double calculatePerimeter();
@@ -293,4 +289,3 @@ public class Main {
         triangle.printDetails();
     }
 }
- */
